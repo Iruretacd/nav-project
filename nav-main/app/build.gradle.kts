@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.infocal.nav"
+    namespace = "com.christianirureta.nav"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.infocal.nav"
+        applicationId = "com.christianirureta.nav"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
